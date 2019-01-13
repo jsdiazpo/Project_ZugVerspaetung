@@ -1,5 +1,5 @@
-# Project_ZugVerspaetung
-Goal: a simple app that sends an alert to my phone when my daily train is delayed
+# Project S-Bahn-Verspätet
+Goal: a simple app that sends an alert to my phone when my daily train (S-Bahn) is delayed
 
 Roadmap:
  1. create Python script that pulls train schedules from [Deutsche Bahn](https://www.bahn.de/p/view/index.shtml) web
